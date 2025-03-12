@@ -11,7 +11,7 @@ I'm a CS student passionate about building meaningful tech projects and solving 
 ---
 
 ### 🚀 Featured Projects:
-- ♟️ **[Chess AI Bot Platform](https://github.com/AdamAzuddin/Deezchess-Unity)** – Train and customize your own chess AI
+- ♟️ **[DeezChess](https://github.com/AdamAzuddin/Deezchess-Unity)** – Train and play againts your own chess AI
 - 🖼️ **[Image Super-Resolution using SRGAN](https://github.com/AdamAzuddin/Single-Image-Super-Resolution-using-GAN)** – Enhance low-res images using deep learning
   
 ---
