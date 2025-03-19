@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: **DeezChess** – a project where users can train and customize their own chess-playing AI.<br>🌱 Learning and experimenting with: **Deep Learning, NLP, and Model Deployment**<br>🧠 Interested in: **ML Engineering • Computer Vision • NLP • AI-Powered Tools**<br>💬 I enjoy writing clean code, solving problems, and exploring the intersection between AI and user experience.<br>🎯 Goal: To build impactful tools, grow as a developer, and secure an ML-related internship soon.
+🔭 Currently working on: **DeezChess** – a project where users can train and customize their own chess-playing AI.<br>🌱 Learning and experimenting with: **Deep Learning, NLP, and Model Deployment**<br>🧠 Interested in: **ML Engineering • Backend Development • NLP • Robotics**<br>💬 I enjoy writing clean code, solving problems, and exploring the intersection between AI and user experience.<br>🎯 Goal: To build impactful tools, grow as a developer, and secure an ML-related internship soon.
 
 
 ## 🌐 Socials:
